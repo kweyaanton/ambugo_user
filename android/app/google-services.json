@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762008457042",
+    "project_id": "ambugo-87a49",
+    "storage_bucket": "ambugo-87a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762008457042:android:e381acdf0db97a756c348b",
+        "android_client_info": {
+          "package_name": "com.fast.ambulanceGo.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762008457042-hl3d7tho6ti88hvikgavvhlpvm4d0vbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnshAcw-V-cptFCpZUG-TOZJGAjaX9x3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762008457042-hl3d7tho6ti88hvikgavvhlpvm4d0vbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
